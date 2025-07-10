@@ -11,7 +11,7 @@ This is a **responsive e-commerce frontend UI project** inspired by popular onli
 - Responsive layout for desktop and mobile
 - Header with logo, search bar, and navigation
 - Product categories and banners
-- Product grid with images, prices, and details
+- Product grid with images, prices, and details 
 - Footer with quick links
 
 ---
@@ -22,6 +22,3 @@ This is a **responsive e-commerce frontend UI project** inspired by popular onli
 - **CSS3** — for styling and responsive layout (Flexbox/Grid)
 
 ---
-
-## 📁 Folder Structure
-
