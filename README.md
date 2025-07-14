@@ -16,9 +16,15 @@ This is a **responsive e-commerce frontend UI project** inspired by popular onli
 
 ---
 
+## 🔗 Live Demo
+
+Check it out here 👉 [https://clone-proj2.vercel.app](https://clone-proj2.vercel.app)
+
+---
+
 ## 🛠️ Tech Stack
 
-- **HTML5** — for content structure
+- **HTML5** — for content structure  
 - **CSS3** — for styling and responsive layout (Flexbox/Grid)
 
 ---
